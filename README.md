@@ -21,8 +21,6 @@ php facedeation project.
 
 
 
-
-
 <b><h3>Example for face detection </h3></b>  
 '''
 <?php  
