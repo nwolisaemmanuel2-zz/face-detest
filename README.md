@@ -7,7 +7,7 @@ php face detection project.
 
 <b><h3>Features</h3></b>  
 1. Detect face from jpg images of any size and quality.  
-2. Crop Face from images   
+2. Crop Face from images. 
 3. Apply filters on faceial area.  
 
 <b><h3>Supported Methods</h3></b>  
