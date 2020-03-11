@@ -17,7 +17,7 @@ php face detection project.
 
 3)faceDetect('img name or path');
 
-4)cropFaceToJpeg()// crop the image 
+4)cropFaceToJpeg()// crop the images 
 
 
 
