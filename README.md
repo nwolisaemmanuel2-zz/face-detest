@@ -25,7 +25,6 @@ php facedeation project.
 '''
 <?php  
 
-
 include "FaceDetector.php";
 
 $img=$_POST['img']; //image name  
