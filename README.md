@@ -2,7 +2,7 @@
 php face detection project.
 
 1) create a new folder upload.
-2) create a folder Exception and cut paste this "NoFaceException.php" file to the new folder "Exception".
+2) create a folder Exception and cut paste this "NoFaceException.php" file tothe new folder "Exception".
 
 
 <b><h3>Features</h3></b>  
