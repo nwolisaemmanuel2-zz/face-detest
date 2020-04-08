@@ -19,7 +19,6 @@
 // @Contributor Maurice Svay
 //              maurice@svay.Com
 namespace svay;
-
 use Exception;
 use svay\Exception\NoFaceException;
 
